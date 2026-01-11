@@ -29,6 +29,10 @@ This script is intended for:
 - Root or sudo privileges  
 - Internet connection  
 
+## 📄 License
+
+This project is licensed under the [MIT License](https://github.com/sco-sec/LICENSE).
+
 ## Usage
 
 Clone the repository and run the installer script:
